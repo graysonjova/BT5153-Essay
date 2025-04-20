@@ -1,1 +1,3 @@
-title_index/
+title_index
+title_index/index.faiss
+title_index/index.pkl
