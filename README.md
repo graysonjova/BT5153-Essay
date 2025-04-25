@@ -10,9 +10,7 @@ This project aims to develop an automated essay grading system using AI models. 
     - Generating rubrics from a marking scheme.
     - Grading essays using machine learning models.
     - Exploratory data analysis and visualization.
-  - **retriever.ipynb**: Notebook for building a vector store of essay titles and retrieving top essays based on similarity.
   - **eda_final.ipynb**: Notebook for exploratory data analysis, including visualizations of essay scores, word counts, and grammar errors.
-  - **BT5153_prompt_engineering.ipynb**: Notebook for generating rubrics, grading essays using AI models, and optimizing grading weights.
   - **augment.ipynb**: Notebook for augmenting essays by generating poor-quality and off-topic versions.
   - **gp_webscraper.ipynb**: Notebook for scraping GP model essays from the specified website and saving them to a CSV file.
   - **scraped_essays.csv**: Dataset of essays used for grading and analysis.
