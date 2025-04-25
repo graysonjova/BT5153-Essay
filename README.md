@@ -25,9 +25,7 @@ This project aims to develop an automated essay grading system using AI models. 
 2. Use the PDF document `grading_rubrics.pdf` to generate a generalized rubric.
 3. Run the Jupyter Notebooks:
    - **BT5153.ipynb**: Main implementation of the grading system.
-   - **retriever.ipynb**: Build a vector store and retrieve essays based on similarity.
    - **eda_final.ipynb**: Perform exploratory data analysis on the dataset.
-   - **BT5153_prompt_engineering.ipynb**: Generate rubrics and grade essays using AI models.
    - **augment.ipynb**: Augment essays by generating poor-quality and off-topic versions.
    - **gp_webscraper.ipynb**: Scrape GP model essays and save them to a CSV file.
 
